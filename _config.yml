@@ -13,15 +13,9 @@ url: "https://manoskar.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
-# other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
-dribbble_username:
+# other link
+github_username:  manoskar
+email: 18811322410@126.com
 
 description_footer: 本站记录我个人学习之路
 
